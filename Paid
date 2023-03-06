@@ -226,7 +226,7 @@ SilentAim.MouseButton1Down:Connect(function()
 
 	getgenv().FOV =  (  125  )   -- [ FOV RADIUS: Increases Or Decreases FOV Radius ]
 
-	getgenv().AimKey =  (  "c"  )  -- [ TOGGLE KEY: Toggles Silent Aim On And Off ]
+	getgenv().AimKey =  (  ""  )  -- [ TOGGLE KEY: Toggles Silent Aim On And Off ]
 
 --[[
 		Do Not Edit Anything Beyond This Point. 
